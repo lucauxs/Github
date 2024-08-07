@@ -1,4 +1,6 @@
 OI
 TCHAU
 
-ADEUSSS
+ADEUS
+
+Testando novamente a edição de texto.
